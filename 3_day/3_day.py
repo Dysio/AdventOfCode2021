@@ -86,3 +86,4 @@ if __name__ == '__main__':
     print(f'oxygen generator rating = {oxygen_generator_rating}')
     print(f'co2 scrubber rating = {co2_scrubber_rating}')
     print(f'life support rating = {oxygen_generator_rating * co2_scrubber_rating}')
+    print('test')
